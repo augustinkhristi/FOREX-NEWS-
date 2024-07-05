@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Stock Market News</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            float: right;
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .news-item {
+            background: #fff;
+            margin: 20px 0;
+            padding: 20px;
+            border: #ddd 1px solid;
+        }
+        .news-item img {
+            max-width: 100%;
+        }
+        .news-item h2 {
+            color: #333;
+        }
+        .high-impact {
+            color: #e60000;
+        }
+        .moderate-impact {
+            color: #ff9900;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Indian Stock Market News</h1>
+        </div>
+    </header>
+    <div class="container">
+        <div class="news-item">
+            <h2>5G Services Market Size, Share, Industry Analysis, Trends, Report 2024–2032</h2>
+            <img src="https://miro.medium.com/v2/resize:fit:750/1*yeovjKhsl4FhQhHXN94tYg.jpeg" alt="5G Services">
+            <p class="high-impact">Impact: High</p>
+            <p>The latest report by IMARC Group, titled “5G Services Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2024–2032,” offers a comprehensive analysis of the 5G services… <a href="https://medium.com/@marksmithresearch01/5g-services-market-size-share-industry-analysis-trends-report-2-46aeabc2141e">Read more</a></p>
+        </div>
+        <div class="news-item">
+            <h2>Gallagher Buys NetClaim, a Claims Management Firm, from NAVEX</h2>
+            <img src="https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png" alt="Gallagher">
+            <p class="moderate-impact">Impact: Moderate</p>
+            <p>Arthur J. Gallagher & Co., the global insurance brokerage and consulting firm, said its claims and risk-management subsidiary, Gallagher Bassett, has acquired G... <a href="https://www.insurancejournal.com/news/southeast/2024/07/05/782244.htm">Read more</a></p>
+        </div>
+        <div class="news-item">
+            <h2>Musk’s X risks fine as EU steps up crackdown on big tech</h2>
+            <img src="https://bl-i.thgim.com/public/incoming/eljt0v/article68287906.ece/alternates/LANDSCAPE_1200/2024-06-13T100244Z_1703065903_RC2FK1ANEUIC_RTRMADP_3_TESLA-COMPENSATION.JPG" alt="Musk's X">
+            <p class="high-impact">Impact: High</p>
+            <p>Elon Musk’s social media platform X is set to be served with a formal warning for failing to combat dangerous content, in the third show of force by European ... <a href="https://www.thehindubusinessline.com/companies/musks-x-risks-fine-as-eu-steps-up-crackdown-on-big-tech/article68369693.ece">Read more</a></p>
+        </div>
+        <div class="news-item">
+            <h2>Lerøy Seafood Group ASA: Trading update Q2 2024</h2>
+            <img src="https://ml-eu.globenewswire.com/Resource/Download/d3fe9352-3a13-4059-bdf0-a32e56d0c5e6" alt="Lerøy Seafood Group">
+            <p class="moderate-impact">Impact: Moderate</p>
+            <p>HARVEST VOLUMES OF SALMON AND TROUT<br>Total harvest volume of salmon and trout for Q2 2024 was 36,700 GWT, excluding volumes from Scottish Seafarms... <a href="https://www.globenewswire.com/news-release/2024/07/05/2908864/0/en/Lerøy-Seafood-Group-ASA-Trading-update-Q2-2024.html">Read more</a></p>
+        </div>
+        <div class="news-item">
+            <h2>Lerøy Seafood Group ASA: Oppdatering volum i andre kvartal 2024</h2>
+            <img src="https://ml-eu.globenewswire.com/Resource/Download/d3fe9352-3a13-4059-bdf0-a32e56d0c5e6" alt="Lerøy Seafood Group">
+            <p class="moderate-impact">Impact: Moderate</p>
+            <p>SLAKTET VOLUM AV LAKS OG ØRRET<br>Slaktet volum av laks og ørret for andre kvartal 2024 ble 36.700 GWT. Dette inkluderer ikke volumer fra Scottish... <a href="https://www.globenewswire.com/news-release/2024/07/05/2908864/0/no/Lerøy-Seafood-Group-ASA-Oppdatering-volum-i-andre-kvartal-2024.html">Read more</a></p>
+        </div>
+    </div>
+</body>
+</html>
